@@ -1,4 +1,4 @@
-# Password-Security-Assessment
+
 # 🔓 Password Security Assessment — Cracking Weak Linux Credentials with John the Ripper
 
 ![Tool](https://img.shields.io/badge/Tool-John%20the%20Ripper-red)
